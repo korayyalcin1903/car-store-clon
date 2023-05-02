@@ -172,6 +172,26 @@ hr {
     flex-wrap:wrap;
 }
 
+section {
+    opacity: 0;
+    transform: translateX(-80vw);
+    transition: 1s;
+}
+
+.slipping {
+    transform: translateX(0);
+    opacity: 1;
+}
+
+@keyframes slipping {
+    0% {
+        transform: translateX(-100vw);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
 #service .service-item {
     display: flex;
     justify-content: space-between;
