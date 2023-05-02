@@ -2,7 +2,7 @@
 
 This project is a clone of a web design template from [link](https://srcnllc.github.io/Car-Accessories-Ecommerce-Web-Template/) that I created with HTML, CSS and JavaScript.
 
-Website Link : https://gleaming-smakager-dfada5.netlify.app/
+Website Link : https://sensational-babka-76a254.netlify.app/
 
 ## About the Project
 
